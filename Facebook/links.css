@@ -1,0 +1,17 @@
+.f-password:link {
+    color: #1877f2;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.f-password:visited {
+    color:#1877f2;
+}
+
+.fpassword:active {
+    color: #1877f2;
+}
+
+.f-password:hover {
+    color: #1877f2;
+}
